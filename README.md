@@ -13,7 +13,7 @@ The distribution of lifespan among female fruitflies are analyzed. Subsets are c
 
 ## lab3.R
 
-Numerous variables are considered in assessing youth morbidity and mortality. Sampling distributions were created to identify descriptive statistics and make inferences about the population parameter of interest.
+Numerous variables are considered in assessing youth morbidity and mortality. Sampling distributions are created to identify descriptive statistics and make inferences about the population parameter of interest.
 
 ## lab4.R
 
