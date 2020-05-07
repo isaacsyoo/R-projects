@@ -1,7 +1,7 @@
 # R-projects
 
 This repository contains all projects coded using R.
-Sets of data were analyzed utilizing various R functions, as part of Emory University's QTM 100 course (Introduction to Statistical Inference). 
+Sets of data are analyzed utilizing various R functions, as part of Emory University's QTM 100 course (Introduction to Statistical Inference). 
 
 ## lab1.R
 
